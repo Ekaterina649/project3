@@ -3,4 +3,5 @@ def foo():
 
 def func():
 
-
+def common():
+    print("Original from develop")
